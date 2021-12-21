@@ -1,0 +1,19 @@
+{
+  "name": "spotify-dataset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "fast-csv": "^4.3.6",
+    "json-2-csv": "^3.15.0",
+    "qs": "^6.10.2"
+  }
+}
